@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  Data Science student focused on Machine Learning and Computer Vision.
+  Data Science  focused on Machine Learning and Computer Vision.
   <br/>
   Building practical end-to-end ML projects and exploring AI systems.
 </p>

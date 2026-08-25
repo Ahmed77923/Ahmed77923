@@ -27,7 +27,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Data Science student
+- 🎓 Data Science 
 - 🤖 Focused on Machine Learning & AI
 - 👁️ Currently developing my Computer Vision skills
 - 🧪 Interested in end-to-end ML systems

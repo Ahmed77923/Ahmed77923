@@ -1,129 +1,81 @@
-<!-- Ahmed Alsafi - GitHub Profile README -->
- 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmed+Alsafi+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Computer+Vision+Enthusiast" alt="Typing SVG" />
-### Data Science • Machine Learning • Computer Vision
+### Machine Learning Engineering · End-to-End ML Systems
  
-Building practical, end-to-end ML systems — from raw data to deployed models.
+Data → features → model → served API. I build ML pipelines that go past the notebook.
  
-<p>
-  <a href="https://github.com/Ahmed77923">
-    <img src="https://img.shields.io/badge/GitHub-Ahmed77923-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-alsafi-444a983ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Ahmed77923-181717?style=flat-square&logo=github)](https://github.com/Ahmed77923)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-alsafi-444a983ab/)
+ 
 </div>
 ---
  
-## 🧠 About Me
+### About
  
-- 🎓 Data Science background, currently deepening my **Machine Learning** and **Computer Vision** expertise
-- 🤖 Passionate about building complete ML systems — data → model → deployment
-- 👁️ Actively developing Computer Vision skills (CNNs, image classification, image processing)
-- ⚙️ Exploring model deployment, MLOps, and production-grade AI pipelines
-- 🚀 I learn by shipping real projects, not just tutorials
-- 💬 Ask me about: scikit-learn, PyTorch, OpenCV, FastAPI, or fraud detection systems
+Data science background, currently focused on machine learning engineering — the part of ML that happens after the model works in a notebook: pipelines, tracking, serving, and testing. My projects run from raw data through a served prediction API, not just to a validation score.
+ 
+I'm also building toward deep learning and computer vision, and I'd rather show that honestly as "in progress" than list frameworks I haven't shipped anything with yet.
+ 
+### Currently
+ 
+- Deepening machine learning engineering: pipeline design, experiment tracking, model serving
+- Working through the fundamentals of neural networks (see `NumPyNet` below) before moving to PyTorch
+- Next up: a real computer vision project — image classification with a proper CNN, not just a script
 ---
  
-## 🛠️ Tech Stack
+### Tech Stack
  
-**Languages & Core**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-**Machine Learning & Deep Learning**
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-**Computer Vision**
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-**MLOps & Deployment**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
----
+Only what's demonstrated in the projects below.
  
-## 🚀 Featured Projects
+**Languages & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
  
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔍 Fraud Detection ML System</h3>
-      <p>End-to-end pipeline covering data preprocessing, feature engineering, model training, evaluation, and deployment for detecting fraudulent transactions.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
-    </td>
-    <td width="50%">
-      <h3>🤖 AutoML System</h3>
-      <p>Experimental system automating key steps of the ML workflow — model selection, hyperparameter tuning, and evaluation.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>✈️ Flight Delay Prediction</h3>
-      <p>Large-scale data preprocessing and feature engineering to predict flight delays, with model optimization for real-world accuracy.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
-    </td>
-    <td width="50%">
-      <h3>👁️ Computer Vision Suite</h3>
-      <p>Growing collection of CV projects covering image processing, CNNs, and image classification using deep learning.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
-    </td>
-  </tr>
-</table>
-> 💡 Replace the `#` links above with your actual repo URLs once you add this to your profile.
+**Machine Learning**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
+ 
+**Serving & MLOps**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+ 
+**Testing & Tools**
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
  
 ---
  
-## 📊 GitHub Statistics
+### Featured Projects
+ 
+**[Flight Delay Prediction](https://github.com/Ahmed77923/flight_delay_prediction)**
+End-to-end regression system predicting arrival delay in minutes from pre-departure flight data. LightGBM model trained on a chronological 80/20 split (no leakage), tracked with MLflow, served through a FastAPI endpoint with Pydantic-validated requests, with a Streamlit client on top. Containerized with Docker Compose (separate API + UI services, health-checked). Backed by a pytest suite covering the API, feature engineering, and a custom target encoder.
+`Python` `LightGBM` `scikit-learn` `MLflow` `FastAPI` `Streamlit` `Docker` `pytest`
+ 
+**[Auto-ML System](https://github.com/Ahmed77923/Auto-ML-System)**
+A modular AutoML pipeline: automatic classification/regression detection, a pipeline-based preprocessing stage (no leakage), a model registry for swapping algorithms, MLflow experiment tracking, and a Streamlit UI for upload → train → download. Built with a clear separation of concerns across config, data, training, and evaluation modules.
+`Python` `scikit-learn` `MLflow` `Streamlit`
+ 
+**[NumPyNet](https://github.com/Ahmed77923/NumPyNet)**
+A feed-forward neural network library built from scratch in NumPy — dense layers, forward/backward propagation, four optimizers (SGD, Momentum, RMSProp, Adam), He/Xavier initialization, L1/L2 regularization, and classification metrics, wrapped in a Streamlit training demo. Built to understand what deep learning frameworks abstract away before relying on them.
+`Python` `NumPy` `Streamlit`
+ 
+**[Fraud Detection ML System](https://github.com/Ahmed77923/Fraud-Detection-ML-System)**
+Early-stage pipeline for fraud detection: preprocessing, feature engineering, class-imbalance handling, and a FastAPI inference layer with a test file in place. Structure is solid; still needs a finished training run and reported metrics.
+`Python` `scikit-learn` `FastAPI`
+ 
+---
+ 
+### GitHub Activity
  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed77923&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed77923&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed77923&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed77923&layout=compact&theme=default&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed77923&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed77923&theme=tokyo-night&hide_border=true" />
-</p>
----
- 
-## 🐍 Contribution Activity
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</p>
----
- 
-## 🎯 Current Learning Path
- 
-```text
-Data Science → Machine Learning → Deep Learning → Computer Vision → AI Engineering
-```
- 
 ---
  
 <div align="center">
-  <sub>⭐ If you find my projects interesting, a star means a lot!</sub>
+<sub>Building toward AI engineering, one shipped project at a time.</sub>
 </div>
  

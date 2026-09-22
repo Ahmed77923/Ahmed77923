@@ -74,19 +74,19 @@ Building practical, end-to-end ML systems — from raw data to deployed models.
     <td width="50%">
       <h3>🤖 AutoML System</h3>
       <p>Experimental system automating key steps of the ML workflow — model selection, hyperparameter tuning, and evaluation.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
+      <a href="https://github.com/Ahmed77923/Auto-ML-System"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>✈️ Flight Delay Prediction</h3>
       <p>Large-scale data preprocessing and feature engineering to predict flight delays, with model optimization for real-world accuracy.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
+      <a href="https://github.com/Ahmed77923/flight_delay_prediction"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
     </td>
     <td width="50%">
       <h3>👁️ Computer Vision Suite</h3>
       <p>Growing collection of CV projects covering image processing, CNNs, and image classification using deep learning.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
+      <a href="https://github.com/Ahmed77923/Fraud-Detection-ML-System"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
     </td>
   </tr>
 </table>

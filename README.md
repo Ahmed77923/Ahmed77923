@@ -69,7 +69,7 @@ Building practical, end-to-end ML systems — from raw data to deployed models.
     <td width="50%">
       <h3>🔍 Fraud Detection ML System</h3>
       <p>End-to-end pipeline covering data preprocessing, feature engineering, model training, evaluation, and deployment for detecting fraudulent transactions.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
+      <a href="https://github.com/Ahmed77923/Fraud-Detection-ML-System"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
     </td>
     <td width="50%">
       <h3>🤖 AutoML System</h3>

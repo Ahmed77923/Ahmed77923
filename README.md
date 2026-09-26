@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmed+Alsafi+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Computer+Vision+Enthusiast" alt="Typing SVG" />
 ### Data Science • Machine Learning • Computer Vision
  
-Building practical, end-to-end ML systems — from raw data to deployed models.
+Building practical, end-to-end ML systems — from raw data to deployed models .
  
 <p>
   <a href="https://github.com/Ahmed77923">

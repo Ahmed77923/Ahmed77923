@@ -93,6 +93,69 @@ Building practical, end-to-end ML systems — from raw data to deployed models .
 > 💡 Replace the `#` links above with your actual repo URLs once you add this to your profile.
  
 ---
+---
+
+## 🏆 Certifications & Courses
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 Data Scientist in Python</h3>
+      <p><strong>Provider:</strong> DataCamp</p>
+      <p><strong>Focus:</strong> Python, Data Science, Data Analysis</p>
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/432d686ea3e25344610a9ccfa444298a220e59c8">
+        <img src="https://img.shields.io/badge/DataCamp-View_Certificate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="View DataCamp Certificate" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Associate Data Scientist in Python</h3>
+      <p><strong>Provider:</strong> DataCamp</p>
+      <p><strong>Duration:</strong> 90 Hours</p>
+      <p><strong>Completed:</strong> March 8, 2026</p>
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/0d3df457dce285949abea01a5218c7736d423801">
+        <img src="https://img.shields.io/badge/DataCamp-View_Certificate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="View DataCamp Certificate" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Google Data Analytics Professional Certificate</h3>
+      <p><strong>Provider:</strong> Google · Coursera</p>
+      <p><strong>Focus:</strong> Data Analytics, SQL, Spreadsheets, Data Visualization</p>
+      <a href="https://coursera.org/verify/professional-cert/FOBGUZT0Z6RM">
+        <img src="https://img.shields.io/badge/Coursera-Verify_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Verify Google Certificate" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Machine Learning</h3>
+      <p><strong>Platform:</strong> Coursera</p>
+      <p><strong>Category:</strong> Machine Learning & Artificial Intelligence</p>
+      <a href="https://coursera.org/verify/specialization/Q7PMUHU3QUMB">
+        <img src="https://img.shields.io/badge/Coursera-Verify_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Verify Machine Learning Certificate" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Meta Front-End Developer Professional Certificate</h3>
+      <p><strong>Provider:</strong> Meta · Coursera</p>
+      <p><strong>Focus:</strong> HTML, CSS, JavaScript, React, Front-End Development</p>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/03TR0B4WYDC4">
+        <img src="https://img.shields.io/badge/Coursera-View_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="View Meta Certificate" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Responsive Web Design</h3>
+      <p><strong>Platform:</strong> Coursera</p>
+      <p><strong>Category:</strong> Web Development</p>
+      <a href="https://coursera.org/verify/specialization/FQFGDYS265R1">
+        <img src="https://img.shields.io/badge/Coursera-Verify_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Verify Responsive Web Design Certificate" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
  
 ## 📊 GitHub Statistics
  

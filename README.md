@@ -153,6 +153,14 @@ Building practical, end-to-end ML systems — from raw data to deployed models .
       </a>
     </td>
   </tr>
+     <td width="50%" valign="top">
+      <h3>📉 Data Analyst in Python</h3>
+      <p><strong>Provider:</strong> DataCamp</p>
+      <p><strong>Focus:</strong> Python, Data Analysis, Data Manipulation</p>
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/b86ac8380cb719f20d4238cad6851a22f285344a">
+        <img src="https://img.shields.io/badge/DataCamp-View_Certificate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="View DataCamp Certificate" />
+      </a>
+    </td>
 </table>
 
 ---
